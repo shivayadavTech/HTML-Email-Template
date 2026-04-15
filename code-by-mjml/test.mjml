@@ -1,9 +1,0 @@
-<mj-section background-color="#ffffff" padding-bottom="10px">
-  <mj-column>
-    <mj-image width="150px" src="https://marketplace.canva.com/EAGRMiB2YSc/1/0/1600w/canva-brown-simple-cute-catering-logo-4zJcdIcOrCQ.jpg" alt="Food Wagon Logo" padding-bottom="0px" />
-    
-    <mj-text font-size="20px" color="#F45E43" font-family="Arial, sans-serif" align="center" font-weight="bold" padding-top="5px">
-      FOOD WAGON
-    </mj-text>
-  </mj-column>
-</mj-section>
