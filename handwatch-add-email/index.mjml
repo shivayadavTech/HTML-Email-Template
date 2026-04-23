@@ -1,0 +1,311 @@
+<mjml>
+  <mj-head>
+    <mj-title>email title</mj-title>
+    <mj-preview>email preview</mj-preview>
+    <mj-attributes>
+        <mj-all font-family="Arial, sans-serif" />
+
+        <mj-class name="primary-text"color="#ffffff"/>
+        <mj-class name="secondary-text"color="#003051" align="center"font-size="14px" font-weight="bold"/>
+        
+        <mj-class name="dis-text"align="center" font-size="12px" color="#1b1a1a" line-height="1.5"/>
+        
+        <mj-class name="price-text"align="center" font-size="16px" font-weight="bold" color="#000000"/>
+        
+        <mj-class name="button-bg" background-color="transparent" border="1px solid #003051"color="#003051"/>
+
+        <mj-class name="footer-text"color="#ffffff" align="center"/>
+        
+        <mj-section padding="0" />
+    
+    </mj-attributes>
+
+  </mj-head>
+  <mj-body>
+  
+  <mj-raw>
+      <!-- Image Header -->
+    </mj-raw>
+
+  <mj-section>
+  <mj-column width="600px">
+  <mj-text mj-class="secondary-text" font-weight="bold" align="center">
+    Free shipping on orders over $50&rarr;
+  </mj-text>
+    </mj-column>    
+    </mj-section>
+    <mj-section background-url="https://media.istockphoto.com/id/890289344/photo/the-perfect-outfit-means-a-perfect-day.webp?a=1&b=1&s=612x612&w=0&k=20&c=lXVxkET-3Yjmo2t_4Vripyub-2H0Y6TsK9QfSiDf7uk=" background-size="cover" background-position="center"padding="40px 20px">
+    <mj-column>
+    <mj-text mj-class="primary-text" align="left" font-size="24px" font-weight="bold" padding-bottom="10px"line-height="1.5">
+   EXCLUSIVE<br/> EDITION  Ltd<br/> ✢1950
+    </mj-text>
+    <mj-text mj-class="primary-text" align="left" font-size="16px" line-height="1.5" padding-bottom="20px">
+      Timeless precision across every horizon.
+    </mj-text>
+    <mj-button href="#"color="#ffffff"background-color="transparent" font-size="16px" padding="10px 25px" border-radius="5px" border="1px double #f4f5f5" align="left">See the collection &rarr;</mj-button>
+    </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#000000" padding="0px 0px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-size="12px" letter-spacing="0.5px">
+          You are invited to the exclusive Bélinor Montrel exhibition. 
+          <a href="#" style="color: #ffffff; text-decoration: underline; font-weight: bold;">RSVP here &rarr;</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+<mj-raw>
+      <!-- Product Section -->
+    </mj-raw>
+
+
+
+<mj-section padding="20px 0" text-align="center">
+  
+  <mj-column width="200px">
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Watch_10.png" 
+      alt="stylish watch 1"
+      padding="0"
+    />
+    <mj-text mj-class="secondary-text">
+      Bélinor Montrel Sport Men, 1950
+    </mj-text>
+    <mj-text mj-class="dis-text">
+      Ref. BM.8803.5.53.6<br/>
+      Automatic watch – Ø 39.00 mm
+    </mj-text>
+    <mj-text mj-class="price-text">
+      $4000
+    </mj-text>
+    <mj-button 
+    href="#"
+      background-color="transparent"
+      color="#003051"
+      border="1px solid #003051"
+      border-radius="6px"
+      padding="10px 15px"
+    >
+      Shop →
+    </mj-button>
+  </mj-column>
+
+    <!-- Product 2 -->
+     <mj-column width="200px">
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Watch_10.png" 
+      alt="stylish watch 1"
+      padding="0"
+    />
+    <mj-text mj-class="secondary-text">
+      Bélinor Montrel Sport Men, 1950
+    </mj-text>
+    <mj-text mj-class="dis-text">
+      Ref. BM.8803.5.53.6<br/>
+      Automatic watch – Ø 39.00 mm
+    </mj-text>
+    <mj-text mj-class="price-text">
+      $4000
+    </mj-text>
+    <mj-button 
+    href="#"
+      background-color="transparent"
+      color="#003051"
+      border="1px solid #003051"
+      border-radius="6px"
+      padding="10px 15px"
+    >
+      Shop →
+    </mj-button>
+  </mj-column>
+
+</mj-section>
+   <mj-section padding="20px 0" text-align="center">
+  
+  <mj-column width="200px">
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Watch_10.png" 
+      alt="stylish watch 1"
+      padding="0"
+    />
+    <mj-text mj-class="secondary-text">
+      Bélinor Montrel Sport Men, 1950
+    </mj-text>
+    <mj-text mj-class="dis-text">
+      Ref. BM.8803.5.53.6<br/>
+      Automatic watch – Ø 39.00 mm
+    </mj-text>
+    <mj-text mj-class="price-text">
+      $4000
+    </mj-text>
+    <mj-button 
+    href="#"
+      background-color="transparent"
+      color="#003051"
+      border="1px solid #003051"
+      border-radius="6px"
+      padding="10px 15px"
+    >
+      Shop →
+    </mj-button>
+  </mj-column>
+
+    <!-- Product 2 -->
+     <mj-column width="200px">
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Watch_10.png" 
+      alt="stylish watch 3"
+      padding="0"
+    />
+    <mj-text mj-class="secondary-text">
+      Bélinor Montrel Sport Men, 1950
+    </mj-text>
+    <mj-text mj-class="dis-text">
+      Ref. BM.8803.5.53.6<br/>
+      Automatic watch – Ø 39.00 mm
+    </mj-text>
+    <mj-text mj-class="price-text">
+      $4000
+    </mj-text>
+    <mj-button 
+    href="#"
+      background-color="transparent"
+      color="#003051"
+      border="1px solid #003051"
+      border-radius="6px"
+      padding="10px 15px"
+    >
+      Shop →
+    </mj-button>
+  </mj-column>
+
+</mj-section>
+    
+    <mj-section background-color="#000000" padding="40px 20px">
+    <mj-column>
+    <mj-text mj-class="footer-text">LUXURY. PRECISION. PRESTIGE. <br> BÉLINOR MONTREL.</mj-text>
+    <mj-image src="https://images.unsplash.com/photo-1666238854499-35b523d6fa3f?q=80&w=661&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="stylish watch 4"width="350px" height="350px"align="center"></mj-image>
+    </mj-column>
+    
+
+    </mj-section>
+
+    <mj-section>
+    <mj-column>
+    <mj-text align="center"
+    mj-class="secondary-text"padding="30px 0px" font-size="20px">
+    Shop now
+    </mj-text>
+    </mj-column>
+    </mj-section>
+
+<mj-section padding="10px 0">
+  <mj-column width="240px">
+    <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Shop_Men_03.png" alt="men hand watch"padding="0" />
+  </mj-column>
+  <mj-column width="160px" vertical-align="top">
+    <mj-text align="center" font-size="20px" font-weight="bold" color="#003051">✢ MEN</mj-text>
+    <mj-button href="#"mj-class="button-bg">Watches &rarr;</mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="10px 0" direction="rtl">
+  <mj-column width="240px" direction="ltr">
+    <mj-image src="https://plus.unsplash.com/premium_photo-1728759440481-9793e4d62881?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"alt="women hand watch" width="400px" padding="0" />
+  </mj-column>
+  <mj-column width="160px" vertical-align="bottom" direction="ltr">
+    <mj-text align="center" font-size="20px" font-weight="bold" color="#003051">✢ WOMEN</mj-text>
+    <mj-button mj-class="button-bg"href="#" >Watches &rarr;</mj-button>
+  </mj-column>
+</mj-section>
+
+
+
+
+    <mj-section>
+    <mj-column width="400px">
+    <mj-text align="center" mj-class="secondary-text">NEW MINI MONTREVIE
+    </mj-text>
+    <mj-text align="center" line-height="1.5">
+With its refined silhouette, timeless design, and harmonious details, the Mini Montrevie embodies Bélinor Montrel’s essence of discreet luxury and modern elegance.
+
+    </mj-text>
+
+    
+
+      <mj-image 
+        src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/10996/Watch_15.png" 
+        alt="Watch 2"
+        padding="0"
+      />
+
+      <mj-text align="center" font-size="18px" font-weight="bold" color="#003051">
+        Montrevie Line R2 Women 1945
+      </mj-text>
+
+      <mj-text align="center" font-size="13px" color="#555555" line-height="1.5">
+        Ref. BM.8803.5.53.6<br/>
+        Automatic watch – Ø 39.00 mm<br/>
+        Stainless steel and 18 karat pink gold cap 200
+      </mj-text>
+
+      <mj-text align="center" font-size="16px" font-weight="bold" color="#000000">
+        $3500
+      </mj-text>
+
+      <mj-button 
+        align="center"
+        background-color="transparent"
+        color="#003051"
+        border="1px solid #003051"
+        border-radius="6px"
+        padding="10px 25px"
+        href="#"
+      >
+        Shop →
+      </mj-button>
+    </mj-column>
+    </mj-section>
+
+
+<mj-section>
+<mj-column width="400px">
+<mj-image src="https://images.unsplash.com/photo-1603257258831-30822d3ef496?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z2lybCUyMGhhbmQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D" alt="stylish  girl watch "></mj-image >
+</mj-column>
+</mj-section>
+
+
+<mj-section background-color="#000000" padding="40px 20px">
+  <mj-column>
+    
+    <mj-text mj-class="footer-text" font-size="24px" font-family="serif" letter-spacing="2px" padding-bottom="20px">
+      BÉLINOR ✢ MONTREL
+    </mj-text>
+
+    <mj-social font-size="15px" icon-size="25px" mode="horizontal" align="center" padding-bottom="25px">
+      <mj-social-element name="facebook" href="#" background-color="transparent" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+      <mj-social-element name="twitter-noshare" href="#" background-color="transparent" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+      <mj-social-element name="linkedin" href="#" background-color="transparent" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"></mj-social-element>
+      <mj-social-element name="instagram" href="#" background-color="transparent" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
+    </mj-social>
+
+    <mj-text align="center" color="#ffffff" font-size="14px" padding-bottom="20px">
+      <a href="#" style="color: #ffffff; text-decoration: underline;">Unsubscribe</a>
+    </mj-text>
+
+    <mj-text mj-class="footer-text" font-size="13px" line-height="1.5" padding-bottom="20px">
+      <strong style="font-size: 15px;">Bélinor Montrel</strong><br/>
+      18 Rue de la Paix, 2e Arrondissement<br/>
+      75002 Paris, France
+    </mj-text>
+
+    <mj-text align="center" font-size="14px">
+      <a href="https://www.belinormontrel.com" style="color: #ffffff; text-decoration: none; font-weight: bold;">www.belinormontrel.com</a>
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+   </mj-body>
+</mjml>
+  
