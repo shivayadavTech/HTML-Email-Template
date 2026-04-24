@@ -1,0 +1,97 @@
+<mjml>
+  <mj-head>
+    <mj-title>FashionHub Email</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#333333" line-height="24px" />
+      <mj-section padding="0px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .product-card { border: 1px solid #dddddd; border-radius: 10px; }
+      .shadow { box-shadow: 0 5px 15px rgba(0,0,0,0.08); }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e5e7eb"> <mj-wrapper padding="40px 10px">
+      
+      <mj-section background-color="#1f2937" padding="24px"> <mj-column>
+          <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold" letter-spacing="2px" text-transform="uppercase">
+            FashionHub </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3>>&auto=format&fit=crop&w=1200&q=80" alt="Fashion Sale" padding="0px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#374151" padding="30px 20px"> <mj-column>
+          <mj-text align="center" color="#ffffff" font-size="28px" font-weight="bold" padding-bottom="10px">
+            Seasonal Discount is Active! </mj-text>
+          <mj-text align="center" color="#d1d5db" font-size="16px" padding-bottom="20px">
+            Save up to 50% on all fresh arrivals. </mj-text>
+          <mj-button background-color="#ffffff" color="#1f2937" border-radius="50px" font-weight="bold" href="#" inner-padding="12px 30px">
+            Shop Now
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f9fafb" padding="30px 40px"> <mj-column>
+          <mj-text align="center">
+            Hello, explore our newest selection curated specifically for you. Grab these special offers before they expire! </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f9fafb" padding="0 20px 20px 20px">
+        <mj-column padding="10px">
+          <mj-image src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Watch" border-radius="8px 8px 0 0" padding="0px" />
+          <mj-text padding="15px" background-color="#ffffff">
+            <h3 style="margin: 0; color: #111827; font-size: 18px;">Timeless Watch</h3>
+            <p style="color: #374151; font-weight: bold; margin: 5px 0;">$129.00</p>
+            <a href="#" style="display: block; background-color: #374151; color: #ffffff; text-align: center; padding: 10px; border-radius: 4px; text-decoration: none; margin-top: 10px; font-size: 14px;">Purchase</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="10px">
+          <mj-image src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Shoes" border-radius="8px 8px 0 0" padding="0px" />
+          <mj-text padding="15px" background-color="#ffffff">
+            <h3 style="margin: 0; color: #111827; font-size: 18px;">Athletic Sneakers</h3>
+            <p style="color: #374151; font-weight: bold; margin: 5px 0;">$89.00</p>
+            <a href="#" style="display: block; background-color: #374151; color: #ffffff; text-align: center; padding: 10px; border-radius: 4px; text-decoration: none; margin-top: 10px; font-size: 14px;">Purchase</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f9fafb" padding="0 40px 40px 40px">
+        <mj-column background-color="#f3f4f6" border-radius="8px" padding="30px"> <mj-text align="center" color="#111827" font-size="20px" font-weight="bold" padding-bottom="10px">
+            Complimentary Delivery on Orders Above $50 </mj-text>
+          <mj-text align="center" padding-bottom="20px">
+            Apply code <strong>SHIPFREE</strong> during checkout.
+          </mj-text>
+          <mj-button background-color="transparent" color="#111827" border="2px solid #111827" font-weight="bold" border-radius="4px" href="#">
+            Get Reward
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      
+      <mj-section background-color="#1f2937" padding="30px">
+        <mj-column>
+          <mj-text align="center" color="#9ca3af" font-size="14px">
+            123 Commerce St, Market City, ST 12345
+          </mj-text>
+          <mj-text align="center" color="#9ca3af" font-size="14px">
+            You received this email because you signed up for our newsletter.
+          </mj-text>
+          <mj-text align="center" font-size="14px">
+            <a href="#" style="color: #818cf8; text-decoration: none;">Unsubscribe</a> | 
+            <a href="#" style="color: #818cf8; text-decoration: none;">View in Browser</a>
+          </mj-text>
+          <mj-text align="center" color="#6b7280" font-size="12px" padding-top="20px">
+            &copy; 2023 ShopStyle Inc. All rights reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
