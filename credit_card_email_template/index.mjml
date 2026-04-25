@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+  <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+      <mj-text color="#555" font-size="14px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5">
+
+    <!-- Logo -->
+    <mj-section padding="20px"background-color="#eae7e7">
+      <mj-column>
+        <mj-text align="center" font-weight="bold" font-size="20px" font-family="Times New Roman, Helvetica, Arial, sans-serif" letter-spacing="1px">
+         <h1 style="margin:0;">Supreme Finance</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section background-color="#7fb0b3" background-url="https://images.unsplash.com/photo-1708423538640-c079fd23c2ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"border-radius="12px 12px 0 0" padding="140px 20px">
+      <mj-column>
+        <mj-text align="center"font-family="Roboto, Helvetica, Arial, sans-serif" color="#DDBA76" font-size="22px" font-weight="bold" line-height="1.2" letter-spacing="0.5px">
+         <h2 style="margin:0;"> CREATE YOUR <br/> <u>LIFE</u><br/> WITH US</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Offer Section -->
+    <mj-section background-color="#3d3d3d" padding="20px" border-radius="0 0 12px 12px">
+      <mj-column>
+        <mj-text align="center" color="#DDBA76" font-size="18px">
+          LIMIT-TIME OFFERS
+        </mj-text>
+         <mj-text align="center" color="#ffffff" font-size="14px">
+          Just register your credit card
+        </mj-text>
+        <mj-text align="center" color="#DDBA76" font-size="28px" font-weight="bold">
+          $500
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content Intro -->
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text >
+          Using our credit card offers you unparalleled financial flexibility and rewards. With our card, you can enjoy exclusive benefits, earn cashback on every purchase, and access a wide range of rewards and discounts. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature 1 -->
+    <mj-section background-color="#ffffff" padding="10px 20px">
+      <mj-column width="20%">
+        <mj-image src="https://i.ibb.co/whtHT4p1/graph.png" alt="graph" />
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-weight="bold" color="#DDBA76">Earn Cashback on Every Purchase</mj-text>
+        <mj-text>Receive a percentage of your spending back as cashback.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature 2 -->
+    <mj-section background-color="#ffffff" padding="10px 20px">
+      <mj-column width="20%">
+        <mj-image src="https://i.ibb.co/B5L1qhj9/security.png" alt="security"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-weight="bold "color="#DDBA76">Enhanced Security and Protection</mj-text>
+        <mj-text>Advanced security features ensure safe transactions.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Feature 3 -->
+    <mj-section background-color="#ffffff" padding="10px 20px">
+      <mj-column width="20%">
+        <mj-image src="https://i.ibb.co/tPw41T30/partner.png" alt="partner" />
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-weight="bold" color="#DDBA76">Exclusive Partner Discounts</mj-text>
+        <mj-text>Enjoy special discounts with our partners.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Button -->
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-button background-color="#e0b16b" color="#000" border-radius="20px">
+          Open an account
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+ <mj-wrapper  background-color="#eae7e7" padding="0 20px 20px 20px">
+   <mj-section>
+   <mj-column width="30%">
+  <mj-text font-family="'Times New Roman'" 
+           font-size="28px" 
+           align="center" 
+           font-weight="bold" 
+           color="#000000"
+           container-background-color="transparent">
+    <div style="
+      border: 2px solid #e0b16b; 
+      border-radius: 50%; 
+      width: 50px; 
+      height: 50px; 
+      line-height: 50px; 
+      margin: 0 auto;
+      text-align: center;">
+      SF
+    </div>
+  </mj-text>
+</mj-column>
+    <mj-column width="20%">
+        <mj-image src="https://i.ibb.co/mCL0RsWS/appstore.png" alt="appstore"  />
+        <mj-image src="https://i.ibb.co/HDZdnfdq/playstore.png" alt="playstore" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" font-size="12px">
+          +00 000 000 000
+        </mj-text>
+        <mj-social align="center">
+          <mj-social-element name="facebook" />
+          <mj-social-element name="twitter" />
+          <mj-social-element name="instagram" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#999999" font-size="10px" padding-top="20px" line-height="1.5">
+          © 2026 Supreme Finance. All rights reserved.<br/><br/>
+          No longer want to receive these emails? <a href="#" class="unsubscribe-link">Unsubscribe here</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+ </mj-wrapper>
+
+  </mj-body>
+</mjml>
