@@ -1,0 +1,87 @@
+<mjml>
+  <mj-head>
+    <mj-title>Seasonal clearance - Save Big</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#2d3748" line-height="24px" />
+      <mj-section padding="0px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .promo-badge { background-color: #ef4444; color: #ffffff; padding: 4px 8px; border-radius: 4px; font-weight: bold; }
+      .footer-link { color: #6366f1; text-decoration: none; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f9ff"> <mj-wrapper padding="20px">
+      
+      <mj-section background-color="#ffffff" padding="20px">
+        <mj-column>
+          <mj-text align="center" font-size="28px" font-weight="900" color="#1e3a8a" letter-spacing="1px">
+            VOGUE VENTURE </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#1e3a8a" padding="40px 20px">
+        <mj-column>
+          <mj-text align="center" color="#ffffff" font-size="32px" font-weight="bold" text-transform="uppercase">
+            Grand Seasonal Sale! </mj-text>
+          <mj-text align="center" color="#bfdbfe" font-size="18px" padding-bottom="25px">
+            Enjoy discounts as high as 80% off! </mj-text>
+          <mj-button background-color="#fbbf24" color="#1e3a8a" font-weight="bold" border-radius="4px" href="#" inner-padding="15px 40px">
+            EXPLORE DEALS </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-image src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80" alt="New Trends" padding="0px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="30px 10px">
+        <mj-column padding="10px">
+          <mj-image src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=400&q=80" border-radius="8px" />
+          <mj-text align="center" font-weight="bold">Lifestyle Wear</mj-text>
+          <mj-text align="center" color="#1e3a8a" font-weight="bold">From $25</mj-text>
+        </mj-column>
+        <mj-column padding="10px">
+          <mj-image src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=400&q=80" border-radius="8px" />
+          <mj-text align="center" font-weight="bold">Designer Outfits</mj-text>
+          <mj-text align="center" color="#1e3a8a" font-weight="bold">From $49</mj-text>
+        </mj-column>
+        <mj-column padding="10px">
+          <mj-image src="https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?auto=format&fit=crop&w=400&q=80" border-radius="8px" />
+          <mj-text align="center" font-weight="bold">Accessories</mj-text>
+          <mj-text align="center" color="#1e3a8a" font-weight="bold">From $15</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#f8fafc" padding="30px">
+        <mj-column>
+          <mj-text align="center" font-size="20px" font-weight="bold">
+            Limited-Time Bargains </mj-text>
+          <mj-text align="center">
+            Don't wait! These price cuts are only available until the end of the week.
+          </mj-text>
+          <mj-button background-color="#1e3a8a" color="#ffffff" href="#">
+            GRAB THE OFFER
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#1e293b" padding="40px 20px">
+        <mj-column>
+          <mj-text align="center" color="#94a3b8" font-size="12px">
+            © 2026 Vogue Venture Ltd. | 789 Fashion Avenue, Creative Hub
+          </mj-text>
+          <mj-text align="center" color="#94a3b8" font-size="12px">
+            You are receiving this as part of our premium membership.
+          </mj-text>
+          <mj-text align="center" font-size="12px">
+            <a href="#" class="footer-link">Remove from list</a> | <a href="#" class="footer-link">Privacy Policy</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
