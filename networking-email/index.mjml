@@ -1,0 +1,141 @@
+<mjml>
+  <mj-head>
+  <mj-style>
+  @media only screen and (max-width:480px) {
+    .gap {
+      display: none !important;
+      width: 0 !important;
+    }
+  }
+</mj-style>
+    <mj-title>TechSpire - Smart Solutions</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" />
+      <mj-text font-size="16px" color="#444444" line-height="24px" />
+      <mj-section background-color="#ffffff" padding="20px" />
+    </mj-attributes>
+    <mj-style>
+      .hero-text div { font-size: 42px !important; line-height: 48px !important; }
+      @media only screen and (max-width:480px) {
+        .hero-text div { font-size: 30px !important; line-height: 36px !important; }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+
+    <mj-section padding="10px 0">
+      <mj-column>
+        <mj-text align="center" font-size="24px" font-weight="900" letter-spacing="2px" color="#000000">
+          TECHSPIRE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="20px" color="#000000" padding-bottom="0">
+          GET READY FOR CONNECT:
+        </mj-text>
+        <mj-text align="center" color="#ff6600" font-weight="900" css-class="hero-text" padding-top="5px">
+          Smarter Networking <br/> for Your Business.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Networking Tech" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ff6600" padding="40px 20px">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="24px" font-weight="bold">
+          Big News!
+        </mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px">
+          <b>TechSpire</b> is proud to introduce <i>Connect</i>, the most advanced secure networking suite designed for modern enterprises.
+        </mj-text>
+        <mj-text align="center" color="#ffffff">
+          📅 <b>Official Launch:</b> June 15, 2024 <br/>
+          📍 <b>Worldwide Access</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ff6600" padding-top="40px">
+      <mj-column>
+        <mj-text align="center" font-size="22px" font-weight="bold" padding-bottom="20px">
+          Why Choose TechSpire Connect?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <mj-section background-color="#ff6600" padding="20px">
+
+  <mj-column width="30%" background-color="#f0e8e3" padding="15px">
+  
+   <mj-image 
+    src="https://plus.unsplash.com/premium_photo-1661723457418-e0f82cc634fd"
+    padding="0"
+    alt="Analytics" 
+    height="100px"
+  />
+        <mj-text align="center" font-weight="bold">Advanced Analytics</mj-text>
+        <mj-text align="center" font-size="13px">Monitor your entire network performance in real-time.</mj-text>
+  </mj-column>
+
+  <!-- GAP -->
+  <mj-column width="5%">
+    <mj-text>&nbsp;</mj-text>
+  </mj-column>
+
+  <mj-column width="30%" background-color="#f0e8e3" padding="15px">
+     <mj-image src="https://plus.unsplash.com/premium_photo-1700830193301-99e1c863ee38?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" padding="0"alt="Cloud" height="100px" />
+        <mj-text align="center" font-weight="bold">Cloud Security</mj-text>
+        <mj-text align="center" font-size="13px">Bank-grade encryption for all your sensitive data.</mj-text>
+  </mj-column>
+
+  <!-- GAP -->
+  <mj-column width="5%">
+    <mj-text>&nbsp;</mj-text>
+  </mj-column>
+
+  <mj-column width="30%" background-color="#f0e8e3" padding="15px">
+         <mj-image src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=150&h=150&q=80" alt="IoT" padding="0"  height="100px"/>
+        <mj-text align="center" font-weight="bold">IoT Integration</mj-text>
+        <mj-text align="center" font-size="13px">Connect any device effortlessly with our API.</mj-text>
+  </mj-column>
+
+</mj-section>
+
+    <mj-section background-color="#f9f9f9" padding="30px">
+      <mj-column>
+        <mj-text align="center" font-size="16px" font-style="italic">
+          Be among the first to experience the future of networking.
+        </mj-text>
+        <mj-button background-color="#ff6600" color="white" href="https://github.com/shivayadavTech/HTML-Email-Template.git" font-size="18px" font-weight="bold" border-radius="4px" padding-top="20px">
+          Join the Waitlist
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-column>
+        <mj-text align="center" font-weight="bold">Follow us for updates</mj-text>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://facebook.com/techspire"></mj-social-element>
+          <mj-social-element name="instagram" href="https://instagram.com/techspire"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/techspire"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://linkedin.com/company/techspire"></mj-social-element>
+        </mj-social>
+        <mj-divider border-width="1px" border-color="#eeeeee" padding="20px 0" />
+        <mj-text align="center" font-size="12px" color="#999999">
+          456 Innovation Way, Silicon Valley, CA 94025 <br/><br/>
+          <a href="https://github.com/shivayadavTech/HTML-Email-Template.git" style="color: #999999;">Unsubscribe</a> | <a href="https://github.com/shivayadavTech/HTML-Email-Template.git" style="color: #999999;">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
