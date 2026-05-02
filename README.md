@@ -44,7 +44,7 @@ Live demo=https://shivayadavtech.github.io/HTML-Email-Template/red-shoes_Mega_Su
 Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/networking-email
 <hr>
 
-<b>5:-Summer Sale</b><br/>
+<b>6:-Summer Sale</b><br/>
 Live demo=https://shivayadavtech.github.io/HTML-Email-Template/summer_sale/<br/>
 Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/summer_sale
 <hr>
