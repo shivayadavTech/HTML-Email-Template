@@ -22,20 +22,20 @@ Ready-to-Use: Just copy the code and swap the images/text.
 📂 Quick Links (Live Demo & Code)
 
 1:-Grand Seasonal Sale -
- Live demo= https://www.google.com/search?q=https://shivayadavtech.github.io/HTML-Email-Template/Grand%2520Seasonal%2520Sale/
+ Live demo= https://shivayadavtech.github.io/HTML-Email-Template/Grand%20Seasonal%20Sale/<br/>
  Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/Grand%20Seasonal%20Sale
  <hr>
 2:-Credit Card Promo-
- Live demo= https://www.google.com/search?q=https://shivayadavtech.github.io/HTML-Email-Template/credit_card_email_template/
+ Live demo=  https://shivayadavtech.github.io/HTML-Email-Template/credit_card_email_template/</br/>
  Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/credit_card_email_template
  <hr>
  3:- Handwatch Promo-
-  Live demo= https://www.google.com/search?q=https://shivayadavtech.github.io/HTML-Email-Template/handwatch-add-email/
+  Live demo= https://shivayadavtech.github.io/HTML-Email-Template/handwatch-add-email/<br/>
    Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/handwatch-add-email
    <hr>
 
 4:- <b>Networking Email</b>
-Live demo= https://www.google.com/search?q=https://shivayadavtech.github.io/HTML-Email-Template/networking-email/
+Live demo=https://shivayadavtech.github.io/HTML-Email-Template/networking-email/<br/>
 Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/networking-email
 
  
