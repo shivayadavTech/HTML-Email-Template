@@ -19,23 +19,34 @@ Inline CSS: All styles are inlined for better rendering and to avoid being marke
 
 Ready-to-Use: Just copy the code and swap the images/text.
 
-📂 Quick Links (Live Demo & Code)
+📂 Quick Links (Live Demo & Code)<br>
 
-1:-Grand Seasonal Sale -
+<b>1:-Grand Seasonal Sale -</b><br/>
  Live demo= https://shivayadavtech.github.io/HTML-Email-Template/Grand%20Seasonal%20Sale/<br/>
  Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/Grand%20Seasonal%20Sale
  <hr>
-2:-Credit Card Promo-
+<b>2:-Credit Card Promo-</b><br/>
  Live demo=  https://shivayadavtech.github.io/HTML-Email-Template/credit_card_email_template/</br/>
  Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/credit_card_email_template
  <hr>
- 3:- Handwatch Promo-
+ <b>3:- Handwatch Promo-</b><br/>
   Live demo= https://shivayadavtech.github.io/HTML-Email-Template/handwatch-add-email/<br/>
    Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/handwatch-add-email
    <hr>
 
-4:- <b>Networking Email</b>
+<b>4:-Networking Email</b><br/>
 Live demo=https://shivayadavtech.github.io/HTML-Email-Template/networking-email/<br/>
 Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/networking-email
+
+<hr>
+<b>5:-Red Shoes Clearance</b><br/>
+Live demo=https://shivayadavtech.github.io/HTML-Email-Template/red-shoes_Mega_Summer_Clearance/<br/>
+Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/networking-email
+<hr>
+
+<b>5:-Summer Sale</b><br/>
+Live demo=https://shivayadavtech.github.io/HTML-Email-Template/summer_sale/<br/>
+Source code= https://github.com/shivayadavTech/HTML-Email-Template/tree/main/summer_sale
+<hr>
 
  
