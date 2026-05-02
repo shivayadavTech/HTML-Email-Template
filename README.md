@@ -1,7 +1,7 @@
-HTML Email Templates Collection
+<h1>HTML Email Templates Collection</h1>
 This repository features a curated collection of professional, high-performance email templates designed for modern marketing needs. Each template is built using clean HTML Table structures to ensure 100% compatibility across all major email platforms.
 
-🚀 Platform Compatibility
+<b>🚀 Platform Compatibility</b>
 These templates work smoothly on all platforms given the niche:
 
 ESPs: Mailchimp, Klaviyo, HubSpot, SendGrid, and Brevo.
@@ -10,7 +10,7 @@ Email Clients: Fully optimized for Microsoft Outlook (Desktop & Web), Gmail, App
 
 Devices: Mobile-responsive design that scales perfectly on iPhone, Android, and Tablets.
 
-✓ Key Technical Features
+<b>✓ Key Technical Features</b>
 Outlook-Ready: Uses specialized MSO conditional code to prevent layout breaking in Outlook.
 
 Table-Based Layout: Hand-coded for maximum stability and email deliverability.
@@ -19,7 +19,7 @@ Inline CSS: All styles are inlined for better rendering and to avoid being marke
 
 Ready-to-Use: Just copy the code and swap the images/text.
 
-📂 Quick Links (Live Demo & Code)<br>
+<b>📂 Quick Links (Live Demo & Code)</b><br>
 
 <b>1:-Grand Seasonal Sale -</b><br/>
  Live demo= https://shivayadavtech.github.io/HTML-Email-Template/Grand%20Seasonal%20Sale/<br/>
