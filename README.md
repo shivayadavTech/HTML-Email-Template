@@ -1,8 +1,8 @@
 HTML Email Templates Collection
-This repository features a curated collection of professional, high-performance email templates designed for modern marketing needs.<br/> Each template is built using clean HTML Table structures to ensure 100% compatibility across all major email platforms.
+This repository features a curated collection of professional, high-performance email templates designed for modern marketing needs. Each template is built using clean HTML Table structures to ensure 100% compatibility across all major email platforms.
 
 🚀 Platform Compatibility
-Ye templates niche diye gaye sabhi platforms par smoothly kaam karte hain:
+These templates work smoothly on all platforms given the niche:
 
 ESPs: Mailchimp, Klaviyo, HubSpot, SendGrid, and Brevo.
 
@@ -10,7 +10,7 @@ Email Clients: Fully optimized for Microsoft Outlook (Desktop & Web), Gmail, App
 
 Devices: Mobile-responsive design that scales perfectly on iPhone, Android, and Tablets.
 
-✨ Key Technical Features
+✓ Key Technical Features
 Outlook-Ready: Uses specialized MSO conditional code to prevent layout breaking in Outlook.
 
 Table-Based Layout: Hand-coded for maximum stability and email deliverability.
